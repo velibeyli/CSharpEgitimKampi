@@ -168,27 +168,27 @@ namespace _06_Arrays
 
             //Console.WriteLine(sum);
 
-            int[] numbers = { 21,42,33,54,55,66,897,748,39,220 };
+            //int[] numbers = { 21,42,33,54,55,66,897,748,39,220 };
 
-            Console.WriteLine("Cift sayilar: ");
+            //Console.WriteLine("Cift sayilar: ");
 
-            for(int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
+            //for(int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
 
-            Console.WriteLine("Tek sayilar: ");
+            //Console.WriteLine("Tek sayilar: ");
 
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 1)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
 
 
             #endregion
